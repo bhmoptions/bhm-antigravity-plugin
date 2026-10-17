@@ -1,0 +1,25 @@
+{
+  "name": "bhm-markets",
+  "displayName": "BHM Markets",
+  "version": "0.1.0",
+  "description": "Consulte opções sobre ações brasileiras, compare volatilidades e calcule cenários hipotéticos com a BHM Markets. Não executa ordens.",
+  "author": {
+    "name": "BHM Markets",
+    "email": "bhm.options@gmail.com",
+    "url": "https://www.bhmmarkets.com.br"
+  },
+  "homepage": "https://www.bhmmarkets.com.br",
+  "license": "Proprietary",
+  "keywords": [
+    "brazil",
+    "options",
+    "volatility",
+    "b3",
+    "finance"
+  ],
+  "suggestedPrompts": [
+    "Quais ativos brasileiros e vencimentos têm dados de opções disponíveis na BHM?",
+    "Compare as volatilidades de PETR4 e VALE3 no horizonte padrão da BHM.",
+    "Ajude-me a simular um cenário hipotético para uma trava de opções."
+  ]
+}

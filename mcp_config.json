@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "bhm-markets": {
+      "url": "https://www.bhmmarkets.com.br/api/harnesses/mcp"
+    }
+  }
+}
